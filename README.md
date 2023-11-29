@@ -1,4 +1,4 @@
-![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/82da8041-fc96-4b98-bcf5-35bbf1797080)# labWeek04_NguyenThanhSon_20106421
+# labWeek04_NguyenThanhSon_20106421
 demo spring data jdbc
 
 Demo getAll, getOne, insert, update, delete trên tables Candidate, Skill, CandidateSkill. Các table còn lại(Job, JobSkill,...) làm tương tự.
