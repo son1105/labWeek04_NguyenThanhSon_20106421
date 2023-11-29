@@ -1,25 +1,25 @@
 package vn.edu.iuh.fit.entities;
 
-public class CandidateSkill {
-    private Candidate candidate;
+public class JobSkill {
+    private Job job;
     private Skill skill;
     private int level;
 
-    public CandidateSkill() {
+    public JobSkill() {
     }
 
-    public CandidateSkill(Candidate candidate, Skill skill, int level) {
-        this.candidate = candidate;
+    public JobSkill(Job job, Skill skill, int level) {
+        this.job = job;
         this.skill = skill;
         this.level = level;
     }
 
-    public Candidate getCandidate() {
-        return candidate;
+    public Job getJob() {
+        return job;
     }
 
-    public void setCandidate(Candidate candidate) {
-        this.candidate = candidate;
+    public void setJob(Job job) {
+        this.job = job;
     }
 
     public Skill getSkill() {
@@ -40,8 +40,8 @@ public class CandidateSkill {
 
     @Override
     public String toString() {
-        return "CandidateSkill{" +
-                "candidate=" + candidate +
+        return "JobSkill{" +
+                "job=" + job +
                 ",\n\tskill=" + skill +
                 ",\n\tlevel=" + level +
                 '}';
