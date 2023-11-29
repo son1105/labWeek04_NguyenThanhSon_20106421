@@ -5,7 +5,8 @@ Demo getAll, getOne, insert, update, delete trên tables Candidate, Skill, Candi
 Databse mẫu được đính kèm trong project lab04.sql
 
 -  Candidate:
-  +  GetAll: ![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/4ab1887a-d498-405f-8cb8-bcca1bdc8eb1)
+  +  GetAll:
+      ![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/4ab1887a-d498-405f-8cb8-bcca1bdc8eb1)
   +  GetOne: Lấy thông tin candidate với id = 2
       ![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/17330d41-95e1-4a55-91cf-7d5a4094e4a8)
   +  Insert: Thêm một candidate mới với id = 3, ...
@@ -15,7 +16,8 @@ Databse mẫu được đính kèm trong project lab04.sql
   +  Delete: Xoá candidate với id = 3
       ![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/c708ff34-28b8-4613-ae81-437e33e283db)
 -  Skill:
-  +  GetAll: ![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/8a76256c-1375-47e9-b5b3-cdd65880e995)
+  +  GetAll:
+      ![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/8a76256c-1375-47e9-b5b3-cdd65880e995)
   +  GetOne: Lấy thông tin skill với id = 2
       ![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/531f4325-dd09-489b-bf39-fa74050d3847)
   +  Insert: Thêm một skill với id = 4
@@ -25,7 +27,8 @@ Databse mẫu được đính kèm trong project lab04.sql
   +  Delete: Xoá skill với id = 4
       ![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/0e4add9a-06c5-4168-b952-3905cdad0ee2)
 - CandidateSkill:
-  +  GetAll: ![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/34bf33f6-fdd1-47a4-b92e-ae01bc086832)
+  +  GetAll:
+      ![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/34bf33f6-fdd1-47a4-b92e-ae01bc086832)
   +  GetOne: Lấy một candidateSkill với candidateId = 1 và skillId = 1
       ![image](https://github.com/son1105/labWeek04_NguyenThanhSon_20106421/assets/115455297/e866b39a-e0ed-4107-a726-663539d5698a)
   +  Insert: Thêm một candidateskill với candidateId = 1 và skillId = 3
